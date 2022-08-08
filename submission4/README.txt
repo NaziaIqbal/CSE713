@@ -8,7 +8,7 @@ Paper title:
 Transfer Learning method to Distinguish between the Freshness of Various Types of Fruits and Vegetables from Image Dataset
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/1o91R_pJqjAqGhACC9BxV-NswkDNsE1KUfPLCaPxrwBM/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 
