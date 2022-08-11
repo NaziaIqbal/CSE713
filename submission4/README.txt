@@ -17,10 +17,10 @@ Paper submission ID: (received) from conference/workshop
 
 
 Conference Name:
-The 37th AAAI Conference on Artificial Intelligence
+
 
 Conference URL:
-https://aaai.org/Conferences/AAAI-23/
+
 
 Group Number:
 1
