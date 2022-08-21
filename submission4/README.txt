@@ -11,7 +11,7 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1o91R_pJqjAqGhACC9BxV-NswkDNsE1KUfPLCaPxrwBM/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-21/08/22
+21-August-2022
 
 Paper submission ID: (received) from conference/workshop
 85
