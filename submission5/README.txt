@@ -8,7 +8,7 @@ Paper title:
 A Survey on Age estimation Using Facial Images
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/1JMAWkdKM933irQcKto1Yi6TSZNIQdgAzVk0alE7UtM8/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 
